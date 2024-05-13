@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 -->
 - 😄 Passionate about full-stack development and DevOps, I am a Software Engineering student at @INPT, where I am immersed in learning all aspects of software engineering.
-- 💬 Feel free to contact me at maryembenadin@gmail.com
+- 💬 Feel free to contact me at maryembenhadin@gmail.com
 
