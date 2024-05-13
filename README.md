@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 -->
 - 😄 Passionate about full-stack development and DevOps, I am a Software Engineering student at @INPT, where I am immersed in learning all aspects of software engineering.
 - 💬 Feel free to contact me at maryembenadin@gmail.com
-
-
-
-
+- Languages and tools :
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
