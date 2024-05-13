@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Passionate about full-stack development and DevOps, I am a Software Engineering student at @INPT, where I am immersed in learning all aspects of software engineering.
 - 💬 Feel free to contact me at maryembenadin@gmail.com
 
-- Languages and tools :
-  <i class="fab fa-python"></i> Python
-<i class="fab fa-node-js"></i> Node.js
+
+
 
